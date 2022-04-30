@@ -8,3 +8,4 @@ The user can click anywhere in the map, the render workout form will be displaye
 The workout will be added rendered on the map and added to the workout list.
 Added local storage functionality so workout will be saved.
 Use reset() in console to reset local storage.
+Taught by Jonas Schmedtmann.
